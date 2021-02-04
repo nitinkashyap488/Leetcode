@@ -1,2 +1,2 @@
 # Leetcode
-LeetCode Solution by me
+LeetCode Solution by Nitin Kashyap
