@@ -1,3 +1,4 @@
+[Discussion Post (created on 7/1/2021 at 15:25)](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1054277/Runtime%3A-24-ms-faster-than-95.26-of-C%2B%2B-for-Median-of-Two-Sorted-Arrays.)  
 [Discussion Post (created on 7/1/2021 at 15:11)](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1054255/Time%3A-36-ms-(73.87)-Space%3A-89-MB-(90.31))  
 <h2>4. Median of Two Sorted Arrays</h2><h3>Hard</h3><hr><div><p>Given two sorted arrays <code>nums1</code> and <code>nums2</code> of size <code>m</code> and <code>n</code> respectively, return <strong>the median</strong> of the two sorted arrays.</p>
 
