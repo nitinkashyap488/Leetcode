@@ -1,3 +1,4 @@
+[Discussion Post (created on 7/1/2021 at 15:49)](https://leetcode.com/problems/longest-common-prefix/discuss/1054311/Runtime%3A-0-ms-faster-than-100.00-of-C%2B%2B-online-submissions-for-Longest-Common-Prefix.)  
 <h2>14. Longest Common Prefix</h2><h3>Easy</h3><hr><div><p>Write a function to find the longest common prefix string amongst an array of strings.</p>
 
 <p>If there is no common prefix, return an empty string <code>""</code>.</p>
