@@ -15,11 +15,11 @@ public:
         ListNode* temp1=head;
         ListNode* temp2=head;
         while(temp1->next && temp1->next->next){
-            if(temp2->next==temp1->next->next){
-                return true;
-            }
             temp1=temp1->next->next;
             temp2=temp2->next;
+            if(temp2==temp1){
+                return true;
+            }
         }
         return false;
     }
