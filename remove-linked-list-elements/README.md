@@ -1,3 +1,4 @@
+[Discussion Post (created on 9/1/2021 at 17:7)](https://leetcode.com/problems/remove-linked-list-elements/discuss/1057589/faster-than-98.60-of-C%2B%2B-online-submissions)  
 <h2>203. Remove Linked List Elements</h2><h3>Easy</h3><hr><div><p>Remove all elements from a linked list of integers that have value <b><i>val</i></b>.</p>
 
 <p><b>Example:</b></p>
