@@ -1,3 +1,4 @@
+[Discussion Post (created on 9/1/2021 at 11:21)](https://leetcode.com/problems/remove-element/discuss/1057195/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>27. Remove Element</h2><h3>Easy</h3><hr><div><p>Given an array <em>nums</em> and a value <code>val</code>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
 
 <p>Do not allocate extra space for another array, you must do this by <strong>modifying the input array <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a></strong> with <code>O(1)</code> extra memory.</p>
