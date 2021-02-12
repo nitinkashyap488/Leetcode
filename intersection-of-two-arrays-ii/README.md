@@ -1,3 +1,4 @@
+[Discussion Post (created on 12/1/2021 at 13:37)](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/1061924/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>350. Intersection of Two Arrays II</h2><h3>Easy</h3><hr><div><p>Given two arrays, write a function to compute their intersection.</p>
 
 <p><strong>Example 1:</strong></p>
