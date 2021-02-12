@@ -1,3 +1,4 @@
+[Discussion Post (created on 12/1/2021 at 13:33)](https://leetcode.com/problems/reverse-string/discuss/1061916/faster-than-97.39-of-C%2B%2B-online-submissions)  
 <h2>344. Reverse String</h2><h3>Easy</h3><hr><div><p>Write a function that reverses a string. The input string is given as an array of characters <code>char[]</code>.</p>
 
 <p>Do not allocate extra space for another array, you must do this by <strong>modifying the input array&nbsp;<a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a></strong> with O(1) extra memory.</p>
