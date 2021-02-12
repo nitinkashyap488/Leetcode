@@ -1,3 +1,4 @@
+[Discussion Post (created on 12/1/2021 at 13:30)](https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/1061911/faster-than-99.37-of-C%2B%2B-online-submissions)  
 <h2>237. Delete Node in a Linked List</h2><h3>Easy</h3><hr><div><p>Write a function to <strong>delete a node</strong> in a singly-linked list. You will <strong>not</strong> be given access to the <code>head</code> of the list, instead you will be given access to <strong>the node to be deleted</strong> directly.</p>
 
 <p>It is <strong>guaranteed</strong> that the node to be deleted is <strong>not a tail node</strong> in the list.</p>
