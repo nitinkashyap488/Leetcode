@@ -1,4 +1,4 @@
-<h2>1290. Convert Binary Number in a Linked List to Integer</h2><h3>Easy</h3><hr><div><p>Given <code>head</code> which is a reference node to&nbsp;a singly-linked list. The value of each node in the linked list is either 0 or 1. The linked list holds the binary representation of a number.</p>
+<h3>1290. Convert Binary Number in a Linked List to Integer</h3><h3>Easy</h3><hr><div><p>Given <code>head</code> which is a reference node to&nbsp;a singly-linked list. The value of each node in the linked list is either 0 or 1. The linked list holds the binary representation of a number.</p>
 
 <p>Return the <em>decimal value</em> of the number in the linked list.</p>
 
