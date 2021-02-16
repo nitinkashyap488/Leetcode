@@ -1,3 +1,4 @@
+[Discussion Post (created on 16/1/2021 at 17:15)](https://leetcode.com/problems/first-missing-positive/discuss/1068259/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>41. First Missing Positive</h2><h3>Hard</h3><hr><div><p>Given an unsorted integer array <code>nums</code>, find the smallest missing positive integer.</p>
 
 <p>&nbsp;</p>
