@@ -1,3 +1,4 @@
+[Discussion Post (created on 1/2/2021 at 22:54)](https://leetcode.com/problems/symmetric-tree/discuss/1088488/faster-than-84.62-of-C%2B%2B-online-submissions)  
 <h2>101. Symmetric Tree</h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, <em>check whether it is a mirror of itself</em> (i.e., symmetric around its center).</p>
 
 <p>&nbsp;</p>
