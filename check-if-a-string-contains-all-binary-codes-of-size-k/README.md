@@ -1,3 +1,4 @@
+[Discussion Post (created on 12/2/2021 at 23:50)](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/discuss/1106405/faster-than-59.95-of-C%2B%2B-online-submissions)  
 <h2>1461. Check If a String Contains All Binary Codes of Size K</h2><h3>Medium</h3><hr><div><p>Given a binary string <code>s</code> and an integer <code>k</code>.</p>
 
 <p>Return <em>True</em> if every&nbsp;binary code&nbsp;of length <code>k</code> is a substring of <code>s</code>. Otherwise, return <em>False</em>.</p>
