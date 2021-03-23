@@ -1,4 +1,3 @@
-[Discussion Post (created on 7/1/2021 at 15:8)](https://leetcode.com/problems/two-sum/discuss/1054247/Time%3A-28-ms-(15.52)-Space%3A-9-MB-(80.04))  
 <h2>1. Two Sum</h2><h3>Easy</h3><hr><div><p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
 <p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
