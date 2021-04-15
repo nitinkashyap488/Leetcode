@@ -1,3 +1,4 @@
+[Discussion Post (created on 15/3/2021 at 12:43)](https://leetcode.com/problems/trapping-rain-water/discuss/1159384/faster-than-87.62-of-C%2B%2B-online-submissions)  
 <h2>42. Trapping Rain Water</h2><h3>Hard</h3><hr><div><p>Given <code>n</code> non-negative integers representing an elevation map where the width of each bar is <code>1</code>, compute how much water it can trap after raining.</p>
 
 <p>&nbsp;</p>
