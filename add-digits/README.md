@@ -1,3 +1,4 @@
+[Discussion Post (created on 17/3/2021 at 22:57)](https://leetcode.com/problems/add-digits/discuss/1163356/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>258. Add Digits</h2><h3>Easy</h3><hr><div><p>Given an integer <code>num</code>, repeatedly add all its digits until the result has only one digit, and return it.</p>
 
 <p>&nbsp;</p>
