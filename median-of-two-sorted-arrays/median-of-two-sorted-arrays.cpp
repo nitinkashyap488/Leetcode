@@ -1,35 +1,36 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int m=nums1.size();
-        int n=nums2.size();
-        int arr[m+n];
-        int i=0,j=0,k=0;
-        while(i<m&&j<n){
-            if(nums1[i]<nums2[j]){
-                arr[k]=nums1[i];
-                i++;
+        if(nums1.size()>nums2.size()){
+            return findMedianSortedArrays(nums2,nums1);
+        }
+        int x = nums1.size();
+        int y = nums2.size();
+        
+        int high = x;
+        int low = 0;
+        while(low<=high){
+            int divideX = low + (high - low)/2;
+            int divideY = (x + y + 1)/2 - divideX;
+            
+            double maxLeftX = (divideX == 0 ? INT_MIN : nums1[divideX-1]);
+            double minRightX = (divideX == x ? INT_MAX : nums1[divideX]);
+            
+            double maxLeftY = (divideY == 0 ? INT_MIN : nums2[divideY-1]);
+            double minRightY = (divideY == y ? INT_MAX : nums2[divideY]);
+            
+            if(maxLeftX <= minRightY && maxLeftY <= minRightX){
+                if((x+y)%2==0){
+                    return (max(maxLeftX,maxLeftY) + min(minRightX,minRightY))/2.0;
+                }else{
+                    return max(maxLeftX,maxLeftY);
+                }
+            }else if(maxLeftX>minRightY){
+                high = divideX-1;
             }else{
-                arr[k]=nums2[j];
-                j++;
+                low = divideX +1;
             }
-            k++;
         }
-        while(i<m){
-            arr[k]=nums1[i];
-            i++;k++;
-        }
-        while(j<n){
-            arr[k]=nums2[j];
-            j++;k++;
-        }
-        if((m+n)%2!=0){
-            return arr[(m+n)/2];
-        }else{
-            int x=(m+n)/2;
-            double a = arr[x];
-            double b = arr[x-1];
-            return (a+b)/2;
-        }
+        return 0;
     }
 };
