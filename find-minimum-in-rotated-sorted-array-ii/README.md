@@ -1,3 +1,4 @@
+[Discussion Post (created on 26/3/2021 at 23:29)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/discuss/1177889/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>154. Find Minimum in Rotated Sorted Array II</h2><h3>Hard</h3><hr><div><p>Suppose an array of length <code>n</code> sorted in ascending order is <strong>rotated</strong> between <code>1</code> and <code>n</code> times. For example, the array <code>nums = [0,1,4,4,5,6,7]</code> might become:</p>
 
 <ul>
