@@ -1,3 +1,4 @@
+[Discussion Post (created on 27/3/2021 at 15:32)](https://leetcode.com/problems/minimum-size-subarray-sum/discuss/1178891/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>209. Minimum Size Subarray Sum</h2><h3>Medium</h3><hr><div><p>Given an array of positive integers <code>nums</code> and a positive integer <code>target</code>, return the minimal length of a <strong>contiguous subarray</strong> <code>[nums<sub>l</sub>, nums<sub>l+1</sub>, ..., nums<sub>r-1</sub>, nums<sub>r</sub>]</code> of which the sum is greater than or equal to <code>target</code>. If there is no such subarray, return <code>0</code> instead.</p>
 
 <p>&nbsp;</p>
