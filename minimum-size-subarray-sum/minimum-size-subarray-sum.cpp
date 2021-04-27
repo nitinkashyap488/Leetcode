@@ -11,7 +11,7 @@ public:
                 ans = min(ans, i+1-j);
                 sum -= nums[j++];
             }
-	i++;
+	    i++;
         }
         return (ans!= INT_MAX)?ans:0;
     }
