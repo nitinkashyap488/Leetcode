@@ -1,3 +1,4 @@
+[Discussion Post (created on 28/3/2021 at 12:32)](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/1180207/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>94. Binary Tree Inorder Traversal</h2><h3>Medium</h3><hr><div><p>Given the <code>root</code> of a binary tree, return <em>the inorder traversal of its nodes' values</em>.</p>
 
 <p>&nbsp;</p>
