@@ -1,3 +1,4 @@
+[Discussion Post (created on 11/4/2021 at 15:56)](https://leetcode.com/problems/insert-interval/discuss/1202652/faster-than-98.75-of-C%2B%2B-online-submissions)  
 <h2>57. Insert Interval</h2><h3>Medium</h3><hr><div><p>Given a set of <em>non-overlapping</em> intervals, insert a new interval into the intervals (merge if necessary).</p>
 
 <p>You may assume that the intervals were initially sorted according to their start times.</p>
