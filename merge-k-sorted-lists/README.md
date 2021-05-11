@@ -1,3 +1,4 @@
+[Discussion Post (created on 11/4/2021 at 14:48)](https://leetcode.com/problems/merge-k-sorted-lists/discuss/1202538/faster-than-96.64-of-C%2B%2B-online-submissions)  
 <h2>23. Merge k Sorted Lists</h2><h3>Hard</h3><hr><div><p>You are given an array of <code>k</code> linked-lists <code>lists</code>, each linked-list is sorted in ascending order.</p>
 
 <p><em>Merge all the linked-lists into one sorted linked-list and return it.</em></p>
