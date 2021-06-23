@@ -1,3 +1,4 @@
+[Discussion Post (created on 24/5/2021 at 1:48)](https://leetcode.com/problems/fibonacci-number/discuss/1292862/faster-than-100.00-of-C%2B%2B-online-submissions)  
 [Discussion Post (created on 16/1/2021 at 22:6)](https://leetcode.com/problems/fibonacci-number/discuss/1068542/faster-than-30.53-of-C%2B%2B-online-submissions-IDK-why)  
 <h2>509. Fibonacci Number</h2><h3>Easy</h3><hr><div><p>The <b>Fibonacci numbers</b>, commonly denoted <code>F(n)</code> form a sequence, called the <b>Fibonacci sequence</b>, such that each number is the sum of the two preceding ones, starting from <code>0</code> and <code>1</code>. That is,</p>
 
