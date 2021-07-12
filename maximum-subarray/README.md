@@ -1,3 +1,4 @@
+[Discussion Post (created on 13/6/2021 at 0:7)](https://leetcode.com/problems/maximum-subarray/discuss/1333619/Kadane's-Algorithm-oror-faster-than-52.69-of-C%2B%2B-online-submissions)  
 <h2>53. Maximum Subarray</h2><h3>Easy</h3><hr><div><p>Given an integer array <code>nums</code>, find the contiguous subarray (containing at least one number) which has the largest sum and return <em>its sum</em>.</p>
 
 <p>&nbsp;</p>
