@@ -1,3 +1,4 @@
+[Discussion Post (created on 14/6/2021 at 23:15)](https://leetcode.com/problems/bulb-switcher-ii/discuss/1337871/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>672. Bulb Switcher II</h2><h3>Medium</h3><hr><div><p>There is a room with <code>n</code> bulbs labeled from <code>1</code> to <code>n</code> that all are turned on initially, and <strong>four buttons</strong> on the wall. Each of the four buttons has a different functionality where:</p>
 
 <ul>
