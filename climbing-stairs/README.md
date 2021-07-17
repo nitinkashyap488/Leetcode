@@ -1,4 +1,3 @@
-[Discussion Post (created on 9/1/2021 at 17:17)](https://leetcode.com/problems/climbing-stairs/discuss/1057604/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>70. Climbing Stairs</h2><h3>Easy</h3><hr><div><p>You are climbing a staircase. It takes <code>n</code> steps to reach the top.</p>
 
 <p>Each time you can either climb <code>1</code> or <code>2</code> steps. In how many distinct ways can you climb to the top?</p>
