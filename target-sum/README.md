@@ -1,3 +1,4 @@
+[Discussion Post (created on 18/6/2021 at 10:47)](https://leetcode.com/problems/target-sum/discuss/1345145/01-Knapsack-oror-faster-than-89.23-of-C%2B%2B-online-submissions)  
 <h2>494. Target Sum</h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>nums</code> and an integer <code>target</code>.</p>
 
 <p>You want to build an <strong>expression</strong> out of nums by adding one of the symbols <code>'+'</code> and <code>'-'</code> before each integer in nums and then concatenate all the integers.</p>
