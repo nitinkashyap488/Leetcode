@@ -1,3 +1,4 @@
+[Discussion Post (created on 18/6/2021 at 12:24)](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/1345351/DP-oror-faster-than-99.18-of-C%2B%2B-online-submissions)  
 <h2>1155. Number of Dice Rolls With Target Sum</h2><h3>Medium</h3><hr><div><p>You have <code>d</code> dice and each die has <code>f</code> faces numbered <code>1, 2, ..., f</code>.</p>
 
 <p>Return the number of possible ways (out of <code>f<sup>d</sup></code> total ways) <strong>modulo</strong> 10<sup>9</sup> + 7 to roll the dice so the sum of the face-up numbers equals <code>target</code>.</p>
