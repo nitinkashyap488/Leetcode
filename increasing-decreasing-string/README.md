@@ -1,3 +1,4 @@
+[Discussion Post (created on 21/6/2021 at 2:21)](https://leetcode.com/problems/increasing-decreasing-string/discuss/1351461/faster-than-97.99-of-C%2B%2B-online-submissions)  
 <h2>1370. Increasing Decreasing String</h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>. You should re-order the string using the following algorithm:</p>
 
 <ol>
