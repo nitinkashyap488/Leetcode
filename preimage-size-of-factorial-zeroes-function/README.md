@@ -1,3 +1,4 @@
+[Discussion Post (created on 21/6/2021 at 0:39)](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/discuss/1351308/BinarySearch-oror-faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>793. Preimage Size of Factorial Zeroes Function</h2><h3>Hard</h3><hr><div><p>Let <code>f(x)</code> be the number of zeroes at the end of <code>x!</code>. Recall that <code>x! = 1 * 2 * 3 * ... * x</code> and by convention, <code>0! = 1</code>.</p>
 
 <ul>
