@@ -1,3 +1,4 @@
+[Discussion Post (created on 24/6/2021 at 12:25)](https://leetcode.com/problems/continuous-subarray-sum/discuss/1358764/HashMap-oror-faster-than-69.82-of-C%2B%2B-online-submissions)  
 <h2>523. Continuous Subarray Sum</h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <code>true</code> <em>if </em><code>nums</code><em> has a continuous subarray of size <strong>at least two</strong> whose elements sum up to a multiple of</em> <code>k</code><em>, or </em><code>false</code><em> otherwise</em>.</p>
 
 <p>An integer <code>x</code> is a multiple of <code>k</code> if there exists an integer <code>n</code> such that <code>x = n * k</code>. <code>0</code> is <strong>always</strong> a multiple of <code>k</code>.</p>
