@@ -6,16 +6,15 @@ public:
         int j=height.size()-1;
         while(i<j){
             int len=j-i;
-                int h=min(height[i],height[j]);
-                if(h*len>ans){
-                    ans=h*len;
-                }
-                if(height[i]<height[j]){
-                    i++;
-                }else{
+            int h=min(height[i],height[j]);
+            if(h*len>ans){
+                ans=h*len;
+            }
+            if(height[i]<height[j]){
+                i++;
+            }else{
                 j--;
             }
-            
         }
         return ans;
     }
