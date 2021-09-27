@@ -1,3 +1,4 @@
+[Discussion Post (created on 27/8/2021 at 11:54)](https://leetcode.com/problems/wiggle-sort-ii/discuss/1488651/Two-Pointers-oror-faster-than-97.36-of-C%2B%2B-online-submissions)  
 <h2>324. Wiggle Sort II</h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code>, reorder it such that <code>nums[0] &lt; nums[1] &gt; nums[2] &lt; nums[3]...</code>.</p>
 
 <p>You may assume the input array always has a valid answer.</p>
