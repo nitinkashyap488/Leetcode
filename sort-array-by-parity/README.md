@@ -1,3 +1,4 @@
+[Discussion Post (created on 27/8/2021 at 16:56)](https://leetcode.com/problems/sort-array-by-parity/discuss/1489177/faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>905. Sort Array By Parity</h2><h3>Easy</h3><hr><div><p>Given an integer array <code>nums</code>, move all the even integers at the beginning of the array followed by all the odd integers.</p>
 
 <p>Return <em><strong>any array</strong> that satisfies this condition</em>.</p>
