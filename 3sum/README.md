@@ -1,3 +1,4 @@
+[Discussion Post (created on 9/9/2021 at 10:31)](https://leetcode.com/problems/3sum/discuss/1511614/faster-than-98.21-of-C%2B%2B-online-submissions)  
 <h2>15. 3Sum</h2><h3>Medium</h3><hr><div><p>Given an array <code>nums</code> of <em>n</em> integers, are there elements <em>a</em>, <em>b</em>, <em>c</em> in <code>nums</code> such that <em>a</em> + <em>b</em> + <em>c</em> = 0? Find all unique triplets in the array which gives the sum of zero.</p>
 
 <p>Notice that the solution set must not contain duplicate triplets.</p>
