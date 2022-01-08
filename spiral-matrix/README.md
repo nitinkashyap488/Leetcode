@@ -1,3 +1,4 @@
+[Discussion Post (created on 8/0/2022 at 9:6)](https://leetcode.com/problems/spiral-matrix/discuss/1674088/Matrix-oror-faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>54. Spiral Matrix</h2><h3>Medium</h3><hr><div><p>Given an <code>m x n</code> <code>matrix</code>, return <em>all elements of the</em> <code>matrix</code> <em>in spiral order</em>.</p>
 
 <p>&nbsp;</p>
