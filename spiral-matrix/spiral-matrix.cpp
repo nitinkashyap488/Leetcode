@@ -27,7 +27,6 @@ public:
                         }
                         left++; count = 0;
                         break;
-                
             }
         }
         return ans;
