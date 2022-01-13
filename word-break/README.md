@@ -1,3 +1,4 @@
+[Discussion Post (created on 13/0/2022 at 15:35)](https://leetcode.com/problems/word-break/discuss/1687120/DP-oror-faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>139. Word Break</h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code> and a dictionary of strings <code>wordDict</code>, return <code>true</code> if <code>s</code> can be segmented into a space-separated sequence of one or more dictionary words.</p>
 
 <p><strong>Note</strong> that the same word in the dictionary may be reused multiple times in the segmentation.</p>
