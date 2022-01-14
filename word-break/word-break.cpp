@@ -11,7 +11,9 @@ public:
                 if((i+t <= n) and s.substr(i,t) == w){
                     dp[i] = dp[i + t];
                 }
-                if(dp[i]==true)break;
+                if(dp[i]==true){
+                    break;
+                }
             }
         }        
         return dp[0];
