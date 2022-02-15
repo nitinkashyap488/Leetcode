@@ -1,3 +1,4 @@
+[Discussion Post (created on 15/1/2022 at 22:56)](https://leetcode.com/problems/reconstruct-original-digits-from-english/discuss/1773641/Very-Very-Easy-oror-faster-than-65.10-of-C%2B%2B-online-submissions)  
 <h2>423. Reconstruct Original Digits from English</h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code> containing an out-of-order English representation of digits <code>0-9</code>, return <em>the digits in <strong>ascending</strong> order</em>.</p>
 
 <p>&nbsp;</p>
