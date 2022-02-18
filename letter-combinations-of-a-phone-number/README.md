@@ -1,3 +1,4 @@
+[Discussion Post (created on 18/1/2022 at 12:46)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/1780089/Backtracking-oror-Map-oror-faster-than-100.00-of-C%2B%2B-online-submissions)  
 <h2>17. Letter Combinations of a Phone Number</h2><h3>Medium</h3><hr><div><p>Given a string containing digits from <code>2-9</code> inclusive, return all possible letter combinations that the number could represent. Return the answer in <strong>any order</strong>.</p>
 
 <p>A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.</p>
