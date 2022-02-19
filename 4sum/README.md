@@ -1,3 +1,4 @@
+[Discussion Post (created on 19/1/2022 at 15:56)](https://leetcode.com/problems/4sum/discuss/1782610/Two-Pointers-oror-Easy-Understanding-oror-faster-than-18.95-of-C%2B%2B-online-submissions)  
 <h2>18. 4Sum</h2><h3>Medium</h3><hr><div><p>Given an array <code>nums</code> of <code>n</code> integers, return <em>an array of all the <strong>unique</strong> quadruplets</em> <code>[nums[a], nums[b], nums[c], nums[d]]</code> such that:</p>
 
 <ul>
