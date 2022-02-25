@@ -1,34 +1,37 @@
 class LRUCache {
-    list<pair<int,int>> doubleList;
-    unordered_map<int,list<pair<int, int>>::iterator> mp;
+    list<pair<int, int>> cache;
+    unordered_map<int, list<pair<int, int>> :: iterator> mp;   //key adress in deque pair
     int size;
+    void refresh(int key,int value){
+        cache.erase(mp[key]);
+        cache.push_front(make_pair(key, value));
+        mp[key] = cache.begin();       // address of new position stored in map
+    }
+    
 public:
     LRUCache(int capacity) {
         size = capacity;
     }
     
     int get(int key) {
-        if(mp.find(key) == mp.end()){
-            return -1;
+        if(mp.find(key) != mp.end()){
+            refresh(key, (*mp[key]).second);
+            return (*mp[key]).second;
         }
-        doubleList.splice(doubleList.begin(), doubleList, mp[key] );
-        return mp[key] -> second;
-    } 
+        return -1;
+    }
     
     void put(int key, int value) {
         if(mp.find(key) != mp.end()){
-            doubleList.splice(doubleList.begin(), doubleList, mp[key]);
-            mp[key] -> second = value;
-            return;
+            refresh(key, value);
+        }else{
+            cache.push_front(make_pair(key,value));
+            mp[key] = cache.begin();
+            if(mp.size() > size){
+                mp.erase(cache.back().first);
+                cache.pop_back();
+            }
         }
-        
-        if(doubleList.size() == size){
-            auto temp = doubleList.back().first;
-            doubleList.pop_back();
-            mp.erase(temp);
-        }
-        doubleList.push_front({key, value});
-        mp[key] = doubleList.begin();
     }
 };
 
