@@ -1,13 +1,12 @@
 class LRUCache {
     list<pair<int, int>> cache;
-    unordered_map<int, list<pair<int, int>> :: iterator> mp;   //key adress in deque pair
+    unordered_map<int, list<pair<int, int>> :: iterator> mp;
     int size;
-    void refresh(int key,int value){
+    void refresh(int key, int value){
         cache.erase(mp[key]);
         cache.push_front(make_pair(key, value));
-        mp[key] = cache.begin();       // address of new position stored in map
+        mp[key] = cache.begin();
     }
-    
 public:
     LRUCache(int capacity) {
         size = capacity;
