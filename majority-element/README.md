@@ -1,3 +1,4 @@
+[Discussion Post (created on 12/2/2024 at 15:13)](https://leetcode.com/problems/majority-element/discuss/4863628/Java-oror-faster-than-99.67-of-Java-online-submissions-for-Majority-Element.)  
 <h2>169. Majority Element</h2><h3>Easy</h3><hr><div><p>Given an array <code>nums</code> of size <code>n</code>, return <em>the majority element</em>.</p>
 
 <p>The majority element is the element that appears more than <code>⌊n / 2⌋</code> times. You may assume that the majority element always exists in the array.</p>
