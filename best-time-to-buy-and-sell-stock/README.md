@@ -1,3 +1,4 @@
+[Discussion Post (created on 12/2/2024 at 17:59)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/4864191/Java-oror-faster-than-99.71-of-Java-online-submissions)  
 [Discussion Post (created on 11/1/2021 at 11:50)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1060276/faster-than-88.18-of-C%2B%2B-online-submissions)  
 <h2>121. Best Time to Buy and Sell Stock</h2><h3>Easy</h3><hr><div><p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
 
