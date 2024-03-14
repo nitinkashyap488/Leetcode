@@ -16,10 +16,12 @@ class Solution {
         for(int i =0; i< nums.length ; i++){
             if(i % 2 == 0 && posIndex < positive.size()){
                 nums[i] = positive.get(posIndex++);
-            }
-            if(i % 2 == 1 && negIndex < negative.size()){
+            }else{
                 nums[i] = negative.get(negIndex++);
             }
+            // if(i % 2 == 1 && negIndex < negative.size()){
+            //     nums[i] = negative.get(negIndex++);
+            // }
         }
         return nums;
     }
