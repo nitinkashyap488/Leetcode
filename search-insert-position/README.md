@@ -1,3 +1,4 @@
+[Discussion Post (created on 17/2/2024 at 21:59)](https://leetcode.com/problems/search-insert-position/discuss/4889234/Java-oror-faster-than-100.00-of-Java-online-submissions-for-Search-Insert-Position.)  
 <h2>35. Search Insert Position</h2><h3>Easy</h3><hr><div><p>Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.</p>
 
 <p>&nbsp;</p>
