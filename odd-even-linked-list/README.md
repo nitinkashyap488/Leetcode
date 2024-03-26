@@ -1,3 +1,4 @@
+[Discussion Post (created on 26/2/2024 at 13:23)](https://leetcode.com/problems/odd-even-linked-list/discuss/4927102/Java-oror-faster-than-100.00-of-Java-online-submissions-for-Odd-Even-Linked-List.)  
 <h2>328. Odd Even Linked List</h2><h3>Medium</h3><hr><div><p>Given the <code>head</code> of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return <em>the reordered list</em>.</p>
 
 <p>The <strong>first</strong> node is considered <strong>odd</strong>, and the <strong>second</strong> node is <strong>even</strong>, and so on.</p>
