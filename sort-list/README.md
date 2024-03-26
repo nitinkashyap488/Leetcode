@@ -1,3 +1,4 @@
+[Discussion Post (created on 26/2/2024 at 14:21)](https://leetcode.com/problems/sort-list/discuss/4927319/Java-oror-faster-than-94.53-of-Java-online-submissions-for-Sort-List.)  
 <h2>148. Sort List</h2><h3>Medium</h3><hr><div><p>Given the <code>head</code> of a linked list, return <em>the list after sorting it in <strong>ascending order</strong></em>.</p>
 
 <p>&nbsp;</p>
