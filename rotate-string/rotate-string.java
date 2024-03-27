@@ -1,8 +1,9 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        if(s.length() == goal.length() && (s+s).contains(goal)){
-            return true;
+        if(s.length() != goal.length()){
+            return false;
         }
-        return false;
+        String concate = s+s;
+        return concate.contains(goal);
     }
 }
