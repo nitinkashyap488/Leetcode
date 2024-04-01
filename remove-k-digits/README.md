@@ -1,3 +1,4 @@
+[Discussion Post (created on 1/3/2024 at 18:41)](https://leetcode.com/problems/remove-k-digits/discuss/4957430/Java-oror-All-test-cases-Passed)  
 <h2>402. Remove K Digits</h2><h3>Medium</h3><hr><div><p>Given string num representing a non-negative integer <code>num</code>, and an integer <code>k</code>, return <em>the smallest possible integer after removing</em> <code>k</code> <em>digits from</em> <code>num</code>.</p>
 
 <p>&nbsp;</p>
