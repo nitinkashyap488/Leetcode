@@ -1,3 +1,4 @@
+[Discussion Post (created on 2/3/2024 at 15:26)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/discuss/4962088/Java-oror-faster-than-75.09-of-Java-online-submissions-for-Binary-Tree-Zigzag-Level-Order-Traversal.)  
 <h2>103. Binary Tree Zigzag Level Order Traversal</h2><h3>Medium</h3><hr><div><p>Given the <code>root</code> of a binary tree, return <em>the zigzag level order traversal of its nodes' values</em>. (i.e., from left to right, then right to left for the next level and alternate between).</p>
 
 <p>&nbsp;</p>
