@@ -1,3 +1,4 @@
+[Discussion Post (created on 2/3/2024 at 14:49)](https://leetcode.com/problems/same-tree/discuss/4961960/Java-oror-faster-than-100.00-of-Java-online-submissions-for-Same-Tree.)  
 <h2>100. Same Tree</h2><h3>Easy</h3><hr><div><p>Given the roots of two binary trees <code>p</code> and <code>q</code>, write a function to check if they are the same or not.</p>
 
 <p>Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.</p>
