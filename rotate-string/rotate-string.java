@@ -3,7 +3,7 @@ class Solution {
         if(s.length() != goal.length()){
             return false;
         }
-        String concate = s+s;
-        return concate.contains(goal);
+        s = s+s;
+        return s.contains(goal);
     }
 }
