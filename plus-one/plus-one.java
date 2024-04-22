@@ -1,15 +1,15 @@
 class Solution {
-    public int[] plusOne(int[] digits) {
-        for(int i = digits.length - 1; i >= 0; i-- ){
-            if(digits[i] < 9){
-                digits[i]++;
-                return digits;
-            }else{
-                digits[i] = 0;
-            }
+    public int[] plusOne(int[] nums) {
+        int carry = 1;
+        for(int i = nums.length - 1; i >= 0; i--){
+            int digit = nums[i] + carry;
+            nums[i] = digit % 10;
+            carry = digit / 10;
         }
-        int arr[] = new int[digits.length + 1];
-        arr[0] = 1;
-        return arr;
+        if(carry > 0){
+            nums = new int[nums.length + 1];
+            nums[0] = carry;
+        }
+        return nums;
     }
 }
